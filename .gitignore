@@ -1,0 +1,4 @@
+# ignore all virtual environments
+*.lag/
+*.ont/
+*.venv/
